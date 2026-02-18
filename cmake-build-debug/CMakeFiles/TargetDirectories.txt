@@ -1,0 +1,4 @@
+C:/Users/timig/Desktop/egyetem/2 ev/DSA II/DSA_II-26/cmake-build-debug/CMakeFiles/lab1_classwork.dir
+C:/Users/timig/Desktop/egyetem/2 ev/DSA II/DSA_II-26/cmake-build-debug/CMakeFiles/lab1_homework.dir
+C:/Users/timig/Desktop/egyetem/2 ev/DSA II/DSA_II-26/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timig/Desktop/egyetem/2 ev/DSA II/DSA_II-26/cmake-build-debug/CMakeFiles/rebuild_cache.dir
